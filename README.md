@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martha Rojas</h1>
 <h3 align="center">Aspiring Software Developer | Network Specialist | Cloud & DevOps Enthusiast</h3><br>
 
-<p align="left"> <a href="https://linkedin.com/martharjs" target="blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="martharjs" /></a></p><br>
+<p align="left"> <a href="https://linkedin.com/in/martharjs" target="blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="martharjs" /></a></p><br>
   
   
 - 🌱 I’m currently learning **Python, Ansible, Terraform**
