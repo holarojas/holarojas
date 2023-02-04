@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Linux, NetOps, SecOps, C++**
 
-- 📫 How to reach me **martha.rjs93@gmail.com**
+- 📫 How to reach me **martha.rjs@outlook.com**
 
 
 - ⚡ Fun fact **Sports aficionado**
